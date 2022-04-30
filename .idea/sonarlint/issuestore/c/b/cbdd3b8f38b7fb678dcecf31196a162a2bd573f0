@@ -1,0 +1,15 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÑÿ¢şÿÿÿÿ
+t
+java:S1450	"RRemove the "age" field and declare it as a local variable in the relevant methods.(‘„û»øÿÿÿÿ8†€¹¿‡0
+i
+java:S1450"SRemove the "name" field and declare it as a local variable in the relevant methods.(Ë¥¼
+u
+java:S1450"ZRemove the "phoneNumber" field and declare it as a local variable in the relevant methods.(ÎÑÕéùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ââñ§
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(‡Âùÿÿÿÿ8‰™±¿‡0
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(Ú¯¿8õê±¿‡0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(œŸÜşÿÿÿÿÿ8´¹´¿‡0
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(¶ë›ƒıÿÿÿÿ8ş‡ÿ¿‡0
+U	java:S106("9Replace this use of System.out or System.err by a logger.(•£œò8µ‚À‡0
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(îãËñúÿÿÿÿ8¶‚À‡0
